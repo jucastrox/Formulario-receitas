@@ -4,6 +4,9 @@ label, input, select, textarea{
     padding: 10px;
     margin-bottom: 20px;
 }
+h2{
+    color: rgb(233, 71, 100);
+}
 .roboto-thin {
    font-family: "Roboto", sans-serif;
  }
